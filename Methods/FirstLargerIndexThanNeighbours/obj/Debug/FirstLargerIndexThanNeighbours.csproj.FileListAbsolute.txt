@@ -1,0 +1,5 @@
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\FirstLargerIndexThanNeighbours\bin\Debug\FirstLargerIndexThanNeighbours.exe.config
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\FirstLargerIndexThanNeighbours\bin\Debug\FirstLargerIndexThanNeighbours.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\FirstLargerIndexThanNeighbours\bin\Debug\FirstLargerIndexThanNeighbours.pdb
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\FirstLargerIndexThanNeighbours\obj\Debug\FirstLargerIndexThanNeighbours.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\FirstLargerIndexThanNeighbours\obj\Debug\FirstLargerIndexThanNeighbours.pdb

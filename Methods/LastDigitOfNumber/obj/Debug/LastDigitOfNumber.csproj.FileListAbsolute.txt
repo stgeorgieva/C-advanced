@@ -1,0 +1,5 @@
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe.config
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.pdb
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.pdb

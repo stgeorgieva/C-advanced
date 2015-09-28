@@ -1,0 +1,6 @@
+C:\Users\Sela\Documents\Visual Studio 2015\Projects\Methods\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Sela\Documents\Visual Studio 2015\Projects\Methods\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Sela\Documents\Visual Studio 2015\Projects\Methods\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\Sela\Documents\Visual Studio 2015\Projects\Methods\ArraySort\obj\Debug\ArraySort.csprojResolveAssemblyReference.cache
+C:\Users\Sela\Documents\Visual Studio 2015\Projects\Methods\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Sela\Documents\Visual Studio 2015\Projects\Methods\ArraySort\obj\Debug\ArraySort.pdb

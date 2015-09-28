@@ -1,0 +1,5 @@
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LArgerThanNeighbour\bin\Debug\LArgerThanNeighbour.exe.config
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LArgerThanNeighbour\bin\Debug\LArgerThanNeighbour.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LArgerThanNeighbour\bin\Debug\LArgerThanNeighbour.pdb
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LArgerThanNeighbour\obj\Debug\LArgerThanNeighbour.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\LArgerThanNeighbour\obj\Debug\LArgerThanNeighbour.pdb

@@ -1,0 +1,5 @@
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+c:\Users\Sela\documents\visual studio 2015\Projects\Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb
