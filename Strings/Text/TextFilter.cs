@@ -20,6 +20,7 @@ namespace TextFilter
                 replaceString = text.Replace(bannedWword, wordToReplace);
                 text = replaceString;
             }
+	    // test
             Console.WriteLine(replaceString);
         }
     }
