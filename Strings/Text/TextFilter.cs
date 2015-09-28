@@ -20,7 +20,11 @@ namespace TextFilter
                 replaceString = text.Replace(bannedWword, wordToReplace);
                 text = replaceString;
             }
+<<<<<<< HEAD
 	    // test
+=======
+	    // Ither test
+>>>>>>> c7a950d851035c04be8f2fde440bfe123b4ca2f4
             Console.WriteLine(replaceString);
         }
     }
